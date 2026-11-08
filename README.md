@@ -18,7 +18,7 @@
 
 I'm a full-stack developer focused on building production-ready web applications with a modern TypeScript stack. I care about clean architecture, performance, security, and great developer and user experience.
 
-- 🔭 Currently building: **[your current project]**
+- 🔭 Currently building: **[Social Development Event Platform]**
 - 🌱 Currently learning: **[e.g., system design, Docker, CI/CD, testing]**
 - 💬 Ask me about: **React, Next.js, Node.js, TypeScript, JWT authentication, REST APIs**
 - 📫 Open to: **freelance projects, collaborations, and full-time opportunities**
